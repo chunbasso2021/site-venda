@@ -29,14 +29,58 @@ width: 327px;
     border-radius: 0 7px 10px 7px;
     background-color: aliceblue;
 }
-#produtotexto{   
+
+.produtotexto{   
     height: 420px;
     width: 327px;
 }
-#body{
-background-color: black;
 
+.produtotexto h1{
+margin: 0 0 0 0 38px;
+padding-top: 1px;
+font-size: 34px;
+color: aliceblue;
+}
+.produtotexto h1,
+.botaopreco p {
+    font-family: 'Benthman',serif;
+}
+.produtotexto h2{
+    
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
